@@ -2,7 +2,15 @@
 
 
 
-This repository contains my submission for Task 2: Social Media Campaign Performance Tracker as part of the Future Interns Data Science & Analytics Internship.
+✅ Task 2 Submission for Future Interns – Data Science & Analytics Internship
+
+
+👨‍💻 Intern: Shifa Taheniyath
+
+
+📅 Date: SEP 2025
+
+
 
 📌 Task Overview
 
@@ -14,26 +22,31 @@ The objective of this task was to analyze Facebook Ads campaign data and build i
 
 
 
-Clean and prepare the Facebook Ads dataset
+✅ Clean and prepare the Facebook Ads dataset
 
 
 
-Analyze Impressions, Clicks, CTR (Click-Through Rate), CPC (Cost Per Click), and ROI (Return on Investment)
+✅ Analyze Impressions, Clicks, CTR (Click-Through Rate), CPC (Cost Per Click), and ROI (Return on Investment)
 
 
 
-Identify top-performing ads based on engagement and conversions
+✅ Identify top-performing ads based on engagement and conversions
 
 
 
-Provide data-driven recommendations for future campaigns
+✅ Provide data-driven recommendations for future campaigns
 
 
 
 🧰 Tools Used
 
 
+
 Excel/Google Sheets – Data cleaning & analysis
+
+
+
+Power BI - Dashboard visualization
 
 
 
@@ -41,20 +54,7 @@ GitHub – Documentation & version control
 
 
 
-(Optional: Power BI / Looker Studio – for dashboard visualization)
-
-
-
-
-📂 Dataset
-
-
-
-The analysis is based on the following public dataset:
-
-
-
-Facebook Ads Performance Dataset – Kaggle
+📂 Dataset The analysis is based on the following public dataset: Facebook Ads Performance Dataset – Kaggle
 
 
 
@@ -78,13 +78,32 @@ Ads with higher frequency led to lower CTR (ad fatigue).
 
 
 
-
 📊 Deliverables
 
 
 
 ✅ Cleaned dataset (CSV/Excel)
 
+
+
 ✅ Facebook Ads analysis report (metrics & insights)
 
-✅ Visualizations / screenshots
+
+
+✅ Visualizations / screenshots (Power BI)
+
+
+
+📬 Contact - Shifa Taheniyath
+
+
+
+LinkedIn | https://www.linkedin.com/in/shifa-taheniyath-10478b335
+
+
+
+GitHub | https://github.com/ShifaTaheniyath
+
+
+
+Mail | taheniyathshifa785@gmail.com
