@@ -87,4 +87,4 @@ Ads with higher frequency led to lower CTR (ad fatigue).
 
 ✅ Facebook Ads analysis report (metrics & insights)
 
-✅ Visualizations / screenshots (if dashboard created)
+✅ Visualizations / screenshots
